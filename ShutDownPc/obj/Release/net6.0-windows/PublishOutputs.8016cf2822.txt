@@ -1,0 +1,5 @@
+C:\Users\Mehmet Kelleli\Desktop\ShutDown\ShutDownPc.exe
+C:\Users\Mehmet Kelleli\Desktop\ShutDown\ShutDownPc.dll
+C:\Users\Mehmet Kelleli\Desktop\ShutDown\ShutDownPc.deps.json
+C:\Users\Mehmet Kelleli\Desktop\ShutDown\ShutDownPc.runtimeconfig.json
+C:\Users\Mehmet Kelleli\Desktop\ShutDown\ShutDownPc.pdb

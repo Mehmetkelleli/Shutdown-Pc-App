@@ -1,0 +1,16 @@
+C:\Users\Mehmet Kelleli\source\repos\ShutDownPc\ShutDownPc\bin\Release\net6.0-windows\ShutDownPc.exe
+C:\Users\Mehmet Kelleli\source\repos\ShutDownPc\ShutDownPc\bin\Release\net6.0-windows\ShutDownPc.deps.json
+C:\Users\Mehmet Kelleli\source\repos\ShutDownPc\ShutDownPc\bin\Release\net6.0-windows\ShutDownPc.runtimeconfig.json
+C:\Users\Mehmet Kelleli\source\repos\ShutDownPc\ShutDownPc\bin\Release\net6.0-windows\ShutDownPc.dll
+C:\Users\Mehmet Kelleli\source\repos\ShutDownPc\ShutDownPc\bin\Release\net6.0-windows\ShutDownPc.pdb
+C:\Users\Mehmet Kelleli\source\repos\ShutDownPc\ShutDownPc\obj\Release\net6.0-windows\ShutDownPc.Form1.resources
+C:\Users\Mehmet Kelleli\source\repos\ShutDownPc\ShutDownPc\obj\Release\net6.0-windows\ShutDownPc.csproj.GenerateResource.cache
+C:\Users\Mehmet Kelleli\source\repos\ShutDownPc\ShutDownPc\obj\Release\net6.0-windows\ShutDownPc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mehmet Kelleli\source\repos\ShutDownPc\ShutDownPc\obj\Release\net6.0-windows\ShutDownPc.AssemblyInfoInputs.cache
+C:\Users\Mehmet Kelleli\source\repos\ShutDownPc\ShutDownPc\obj\Release\net6.0-windows\ShutDownPc.AssemblyInfo.cs
+C:\Users\Mehmet Kelleli\source\repos\ShutDownPc\ShutDownPc\obj\Release\net6.0-windows\ShutDownPc.csproj.CoreCompileInputs.cache
+C:\Users\Mehmet Kelleli\source\repos\ShutDownPc\ShutDownPc\obj\Release\net6.0-windows\ShutDownPc.dll
+C:\Users\Mehmet Kelleli\source\repos\ShutDownPc\ShutDownPc\obj\Release\net6.0-windows\refint\ShutDownPc.dll
+C:\Users\Mehmet Kelleli\source\repos\ShutDownPc\ShutDownPc\obj\Release\net6.0-windows\ShutDownPc.pdb
+C:\Users\Mehmet Kelleli\source\repos\ShutDownPc\ShutDownPc\obj\Release\net6.0-windows\ShutDownPc.genruntimeconfig.cache
+C:\Users\Mehmet Kelleli\source\repos\ShutDownPc\ShutDownPc\obj\Release\net6.0-windows\ref\ShutDownPc.dll
